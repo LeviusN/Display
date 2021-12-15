@@ -2,14 +2,17 @@
 - zadanie so 7-segmentovým displejom
 - organizácia k distribúcii HW
 
+
+<p align="center">
+    <img src="https://github.com/LeviusN/vrs_zadanie_cv8/issues/1#issue-1081357838" width="350">
+</p>
+
 # Zadanie
 
 ### Úvod k zadaniu
 - pre zadanie sa bude využívať 4 miestny 7-segmentový displej LFD028BUE-103A
 
-<p align="center">
-    <img src="https://github.com/VRS-Predmet/vrs_cvicenie_8/blob/zadanie_cv8/pics/20201124_111845.jpg" width="350">
-</p>
+
 
 - dokumentácia k displeju: 
     - https://www.tme.eu/Document/afe40de6cbe93d7d978749835d83cb6c/LFD028BUE-103A.pdf
