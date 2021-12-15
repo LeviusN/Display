@@ -2,9 +2,8 @@
 - zadanie so 7-segmentovým displejom
 - organizácia k distribúcii HW
 
-
 <p align="center">
-    <img src="https://github.com/LeviusN/vrs_zadanie_cv8/issues/1#issue-1081357838" width="350">
+    <img src="https://user-images.githubusercontent.com/91337423/146244957-aa92c44b-a730-4d75-9bd6-57748b5c2193.gif" width="350">
 </p>
 
 # Zadanie
