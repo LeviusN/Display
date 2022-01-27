@@ -1,14 +1,11 @@
-# Náplň cvičenia
-- zadanie so 7-segmentovým displejom
-- organizácia k distribúcii HW
+# Téma
+- 7-segmentový displej
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/91337423/146244957-aa92c44b-a730-4d75-9bd6-57748b5c2193.gif" width="350">
 </p>
 
-# Zadanie
-
-### Úvod k zadaniu
+### Úvod
 - pre zadanie sa bude využívať 4 miestny 7-segmentový displej LFD028BUE-103A
 
 
@@ -25,7 +22,7 @@
 
 - abeceda pre sedem segmentový displej: https://en.wikichip.org/wiki/seven-segment_display/representing_letters
 
-### Úlohy:
+### Postup:
 1a. Nakonfigurovať GPIO tak, aby dokázali ovládať segmenty: 
    - segment A  -> PA1           
    - segment B  -> PA0             
@@ -51,7 +48,5 @@
 7. Ak sa zobrazovaný text dostane na koniec, začne sa text po znakoch posúvať opačným smerom až kým nedojde na začiatok. 
 
 Príklad: 
-- meno, priezvysko a ID budú vo výsledku tvoriť pre zobrazenie reťazec: Janko_Bukvička_123
-- na začiatku animácie sa zobrazia znaky: "Jank"
-- v ďalšej iterácii, teda sa zobrazovanie posunie o jeden znak: "anko"
-- v ďalšej iterácii a tak ďalej: "anko"
+- meno, priezvysko a ID budú vo výsledku tvoriť pre zobrazenie reťazec: Peto_Freda_444
+- na začiatku animácie sa zobrazia znaky: "Peto"
